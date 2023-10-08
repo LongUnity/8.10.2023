@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\bin\Debug\Collection_Generic.exe.config
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\bin\Debug\Collection_Generic.exe
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\bin\Debug\Collection_Generic.pdb
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\obj\Debug\Collection_Generic.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\obj\Debug\Collection_Generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\obj\Debug\Collection_Generic.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\obj\Debug\Collection_Generic.exe
+C:\Users\May1\source\repos\OOP_Buoi10\Collection_Generic\obj\Debug\Collection_Generic.pdb
